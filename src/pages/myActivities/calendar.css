@@ -1,0 +1,9 @@
+.calendar-container {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+}
+
+.calendar {
+  height: 60vh !important;
+}
