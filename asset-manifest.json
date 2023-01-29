@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tu-juntada/static/css/main.fe9775ad.css",
+    "main.js": "/tu-juntada/static/js/main.06841d2d.js",
+    "static/js/787.0b18582c.chunk.js": "/tu-juntada/static/js/787.0b18582c.chunk.js",
+    "static/media/asado.jpeg": "/tu-juntada/static/media/asado.aa106f93d67533cca90a.jpeg",
+    "static/media/bbq-activity.jpeg": "/tu-juntada/static/media/bbq-activity.4d8c59e577bfc828870a.jpeg",
+    "static/media/snack-activity.jpeg": "/tu-juntada/static/media/snack-activity.63d055c2b056208bf3b2.jpeg",
+    "static/media/football-activity.jpeg": "/tu-juntada/static/media/football-activity.0b1ab8a8a4d35de34ca5.jpeg",
+    "static/media/friends-bbq-party.jpeg": "/tu-juntada/static/media/friends-bbq-party.2fa239f697c9ea4ad9cc.jpeg",
+    "static/media/games-activity.jpeg": "/tu-juntada/static/media/games-activity.d20a0bfac26794fd8b4c.jpeg",
+    "static/media/day-off-activity.jpeg": "/tu-juntada/static/media/day-off-activity.cc813e27b0cd553a6f91.jpeg",
+    "static/media/weekend-activity.jpeg": "/tu-juntada/static/media/weekend-activity.49f8ec259384e613243d.jpeg",
+    "static/media/group.png": "/tu-juntada/static/media/group.c1e6261f1cac09957009.png",
+    "index.html": "/tu-juntada/index.html",
+    "main.fe9775ad.css.map": "/tu-juntada/static/css/main.fe9775ad.css.map",
+    "main.06841d2d.js.map": "/tu-juntada/static/js/main.06841d2d.js.map",
+    "787.0b18582c.chunk.js.map": "/tu-juntada/static/js/787.0b18582c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9775ad.css",
+    "static/js/main.06841d2d.js"
+  ]
+}
